@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/ribbon_main" android:title="@string/main" android:icon="@drawable/ic_launcher"/>
+    <item android:id="@+id/ribbon_truth" android:title="@string/truth" android:icon="@drawable/ic_launcher"/>
+    <item android:id="@+id/ribbon_litany" android:title="@string/litany" android:icon="@drawable/ic_launcher"/>
+    <item android:id="@+id/ribbon_prayers" android:title="@string/prayers" android:icon="@drawable/ic_launcher"/>
+    <item android:id="@+id/ribbon_songs" android:title="@string/songs" android:icon="@drawable/ic_launcher"/>
+</menu>

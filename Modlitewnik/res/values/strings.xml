@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, ModlitewnikActivity!</string>
+    <string name="app_name">Modlitewnik</string>
+    <string name="main">Główna</string>
+    <string name="truth">Prawdy wiary</string>
+    <string name="litany">Litanie</string>
+    <string name="prayers">Modlitwy</string>
+    <string name="songs">Pieśni</string>
+
+</resources>
